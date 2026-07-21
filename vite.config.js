@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "https://Reemoat.github.io/client-toolchain-example/",
+  base: "https://github.com/Reemoat/super-website",
 });
