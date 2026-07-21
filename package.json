@@ -10,6 +10,7 @@
   "scripts": {
     "dev": "vite",
     "format": "prettier --write .",
+    "build": "vite build",
     "test": "vitest"
   },
   "devDependencies": {
